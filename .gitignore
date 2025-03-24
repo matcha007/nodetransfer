@@ -1,0 +1,51 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+*.log.*.gz
+# BlueJ files
+*.ctxt
+
+# Package Files #
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+#maven
+target/
+*/target/
+.flattened-pom.xml
+
+#idea
+.idea/
+*.iml
+**/*.iml
+
+#eclipse
+.project
+.classpath
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+#disconf
+disconf/
+/start/src/main/resources/rebel.xml
+
+#fastRequest
+.fastRequest
