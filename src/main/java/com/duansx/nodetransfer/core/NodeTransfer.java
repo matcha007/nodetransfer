@@ -1,4 +1,4 @@
-package com.swcc.nodetransfer.core;
+package com.duansx.nodetransfer.core;
 
 import io.netty.channel.ChannelHandlerContext;
 import org.apache.rocketmq.remoting.InvokeCallback;

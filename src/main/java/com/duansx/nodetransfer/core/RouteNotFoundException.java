@@ -1,4 +1,4 @@
-package com.swcc.nodetransfer.core;
+package com.duansx.nodetransfer.core;
 
 public class RouteNotFoundException extends Exception {
     public RouteNotFoundException(String curNodeCode, String targetNodeCode) {

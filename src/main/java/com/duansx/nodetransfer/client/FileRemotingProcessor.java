@@ -1,4 +1,4 @@
-package com.swcc.nodetransfer.client;
+package com.duansx.nodetransfer.client;
 
 import com.alibaba.fastjson.JSONObject;
 import io.netty.channel.ChannelHandlerContext;

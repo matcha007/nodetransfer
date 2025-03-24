@@ -1,6 +1,6 @@
-package com.swcc.nodetransfer.core;
+package com.duansx.nodetransfer.core;
 
-import com.swcc.nodetransfer.core.route.ShortestPathRouteServer;
+import com.duansx.nodetransfer.core.route.ShortestPathRouteServer;
 import org.apache.rocketmq.remoting.netty.NettyClientConfig;
 import org.apache.rocketmq.remoting.netty.NettyServerConfig;
 

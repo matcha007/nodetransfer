@@ -1,4 +1,4 @@
-package com.swcc.nodetransfer.core.route;
+package com.duansx.nodetransfer.core.route;
 
 public class Edge {
     private Node node1;

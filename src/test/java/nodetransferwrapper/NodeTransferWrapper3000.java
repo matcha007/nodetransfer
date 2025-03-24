@@ -1,11 +1,11 @@
 package nodetransferwrapper;
 
-import com.swcc.nodetransfer.client.DefaultFileStorage;
-import com.swcc.nodetransfer.client.DiscardBusHandler;
-import com.swcc.nodetransfer.client.NodeTransferWrapper;
-import com.swcc.nodetransfer.core.route.Edge;
-import com.swcc.nodetransfer.core.route.Node;
-import com.swcc.nodetransfer.core.route.ShortestPathRouteServer;
+import com.duansx.nodetransfer.client.DefaultFileStorage;
+import com.duansx.nodetransfer.client.DiscardBusHandler;
+import com.duansx.nodetransfer.client.NodeTransferWrapper;
+import com.duansx.nodetransfer.core.route.Edge;
+import com.duansx.nodetransfer.core.route.Node;
+import com.duansx.nodetransfer.core.route.ShortestPathRouteServer;
 
 import java.io.File;
 import java.util.ArrayList;

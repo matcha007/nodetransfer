@@ -1,9 +1,9 @@
 package nodetransferwrapper;
 
-import com.swcc.nodetransfer.client.*;
-import com.swcc.nodetransfer.core.route.Edge;
-import com.swcc.nodetransfer.core.route.Node;
-import com.swcc.nodetransfer.core.route.ShortestPathRouteServer;
+import com.duansx.nodetransfer.client.*;
+import com.duansx.nodetransfer.core.route.Edge;
+import com.duansx.nodetransfer.core.route.Node;
+import com.duansx.nodetransfer.core.route.ShortestPathRouteServer;
 
 import java.io.File;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.swcc.nodetransfer.client;
+package com.duansx.nodetransfer.client;
 
 public interface NodeTransferCallBack<T> {
     void onSuccess(T object);

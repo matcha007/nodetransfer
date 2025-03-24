@@ -1,4 +1,4 @@
-package com.swcc.nodetransfer.client.dispatcher;
+package com.duansx.nodetransfer.client.dispatcher;
 
 import org.apache.rocketmq.client.log.ClientLogger;
 import org.apache.rocketmq.common.ServiceThread;

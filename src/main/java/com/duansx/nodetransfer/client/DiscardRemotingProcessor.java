@@ -1,4 +1,4 @@
-package com.swcc.nodetransfer.client;
+package com.duansx.nodetransfer.client;
 
 import io.netty.channel.ChannelHandlerContext;
 import org.apache.rocketmq.remoting.netty.NettyRequestProcessor;

@@ -1,4 +1,4 @@
-package com.swcc.nodetransfer.client;
+package com.duansx.nodetransfer.client;
 
 import cn.hutool.core.io.FileUtil;
 import org.apache.commons.io.IOUtils;

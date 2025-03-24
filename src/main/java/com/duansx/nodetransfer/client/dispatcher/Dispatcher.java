@@ -1,4 +1,4 @@
-package com.swcc.nodetransfer.client.dispatcher;
+package com.duansx.nodetransfer.client.dispatcher;
 
 public interface Dispatcher {
 

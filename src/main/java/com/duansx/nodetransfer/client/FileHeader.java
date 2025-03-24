@@ -1,4 +1,4 @@
-package com.swcc.nodetransfer.client;
+package com.duansx.nodetransfer.client;
 
 import org.apache.rocketmq.remoting.CommandCustomHeader;
 import org.apache.rocketmq.remoting.exception.RemotingCommandException;

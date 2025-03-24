@@ -1,13 +1,13 @@
 package nodetransfer;
 
-import com.swcc.nodetransfer.client.DefaultFileStorage;
-import com.swcc.nodetransfer.client.DiscardRemotingProcessor;
-import com.swcc.nodetransfer.client.FileRemotingProcessor;
-import com.swcc.nodetransfer.core.NodeTransfer;
-import com.swcc.nodetransfer.core.NodeTransferConfig;
-import com.swcc.nodetransfer.core.route.Edge;
-import com.swcc.nodetransfer.core.route.Node;
-import com.swcc.nodetransfer.core.route.ShortestPathRouteServer;
+import com.duansx.nodetransfer.client.DefaultFileStorage;
+import com.duansx.nodetransfer.client.DiscardRemotingProcessor;
+import com.duansx.nodetransfer.client.FileRemotingProcessor;
+import com.duansx.nodetransfer.core.NodeTransfer;
+import com.duansx.nodetransfer.core.NodeTransferConfig;
+import com.duansx.nodetransfer.core.route.Edge;
+import com.duansx.nodetransfer.core.route.Node;
+import com.duansx.nodetransfer.core.route.ShortestPathRouteServer;
 
 import java.io.File;
 import java.util.ArrayList;
